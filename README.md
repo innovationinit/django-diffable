@@ -58,5 +58,5 @@ False
 ```
 
 ## License
-The Django Wicked Historian package is licensed under the [FreeBSD
+The Django Diffable package is licensed under the [FreeBSD
 License](https://opensource.org/licenses/BSD-2-Clause).
